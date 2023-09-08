@@ -6,8 +6,8 @@
   "theme_color": "#202940",
   "background_color": "#202940",
   "display": "fullscreen",
-  "start_url": "/?utm_source=Installed%20App&utm_medium=Shortcut",
-  "scope": "/",
+  "start_url": "./?utm_source=Installed%20App&utm_medium=Shortcut",
+  "scope": "./",
   "dir": "auto",
   "features": [
     "Cross Platform",
